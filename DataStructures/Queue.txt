@@ -1,0 +1,5 @@
+Advantages:
+- Provides first-in, first-out
+
+Disadvantages:
+- Slow access to other items

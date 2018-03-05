@@ -1,0 +1,24 @@
+A linked list is a sequence of data structures,
+which are connected together via links.
+
+Each link contains a connection to another link.
+
+A linked list is the second most-used data 
+structure after array.
+
+Since it contains a link to the next node, 
+the size is dynamic
+
+It starts at the beginning (Simple linked list) and steps forward
+
+Double linked link steps (Steps forward and backward)
+
+Circular linked list steps (last element has a link to first)
+
+Advantages:
+- Quick insertion
+- Quick deletion
+
+Disadvantages:
+- Slow search
+

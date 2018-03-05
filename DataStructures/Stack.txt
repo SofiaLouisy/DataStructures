@@ -1,0 +1,7 @@
+Advantages:
+- Provides last-in/last-out
+
+Disadvantages:
+- Slow access to other items
+
+#C uses this

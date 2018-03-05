@@ -1,0 +1,5 @@
+Advantages:
+- Models real-world situations
+
+Disadvantages:
+- Some algorithms are slow and complex

@@ -1,0 +1,7 @@
+Advantages:
+- Quicker search than unsorted array
+
+Disadvantages:
+- Slow insertion (need to move)
+- Slow Deletion
+- Fixed size

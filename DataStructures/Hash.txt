@@ -1,0 +1,10 @@
+Advantages:
+- Very fast access if key known
+- Fast insertion
+
+Disadvantages:
+- Slow deletion
+- Access slow if key not known
+- Inefficient memory usage
+
+#Python uses this

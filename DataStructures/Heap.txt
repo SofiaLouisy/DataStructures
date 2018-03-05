@@ -1,0 +1,9 @@
+Advantages:
+- Fast insertion
+- Fast deletion
+- Access to largest item
+
+Disadvantages:
+- Slow access to other items
+
+#C stores things in heap

@@ -1,0 +1,8 @@
+Advantages:
+- Quick insertion
+- Very fast access if index known
+
+Disadvantages:
+- Slow search (n)
+- Slow deletion (?)
+- Fixed size

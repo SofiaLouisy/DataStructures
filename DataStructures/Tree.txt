@@ -1,0 +1,7 @@
+Advantages:
+- Quick search
+- Quick insertion
+- Quick deletion
+
+Disadvantages:
+- Complex to implement
