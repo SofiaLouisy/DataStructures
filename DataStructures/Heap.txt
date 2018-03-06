@@ -1,3 +1,6 @@
+Usage:
+    Good for easy access of an extreme value (max/min)
+
 Advantages:
 - Fast insertion
 - Fast deletion
@@ -7,3 +10,17 @@ Disadvantages:
 - Slow access to other items
 
 #C stores things in heap
+
+Binary tree data, 
+but where the child is compared to parent
+(so that next generation always has a lower value)
+
+insertion
+    create new node at the end (youngest).
+    Assign value, if value of parent is
+    less than child, swap. Repeat (log n)
+
+deletion:
+    Remove root node (highest value)
+    Reorder: Move youngest to root and compare to children
+    (log n)

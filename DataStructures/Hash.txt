@@ -1,3 +1,8 @@
+Usage:
+    Good for data that has a relevant key,
+    if order is unrelevant 
+    (if there is no connection between data).
+
 Advantages:
 - Very fast access if key known
 - Fast insertion
@@ -8,3 +13,22 @@ Disadvantages:
 - Inefficient memory usage
 
 #Python uses this
+
+Stored in array format (data + key)
+Key converts to index
+
+Basic operations:
+- search
+- insert
+- delete
+
+search:
+    use modulo on key. Search from here until array(index) == null
+    for the data-key match in the array (1-n)
+
+insert:
+    use modulo on key. If index taken, 
+    look for next free index and put it there (1-n)
+
+delete:
+    find array element, change to dummyitem (1-n)

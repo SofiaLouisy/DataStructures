@@ -15,3 +15,5 @@ The complexity will be described on a high level for conseptual understanding, a
 
 The project should also include
 * Code examples for algorithms
+
+* Source of information: [tutorial](https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm)

@@ -5,3 +5,22 @@ Disadvantages:
 - Slow access to other items
 
 #C uses this
+
+Basic operations:
+- push (storing element)
+- pop (removing element)
+- peek (look at top element without removing)
+- isFull
+- isEmpty
+
+Insert:
+    Checks if stack is full, change top pointer
+    to next empty space, add data to
+    where top is pointing
+    (1)
+
+Delete:
+    Checks if stack is empty, 
+    change top pointer by -1 (next place)
+    (1)
+

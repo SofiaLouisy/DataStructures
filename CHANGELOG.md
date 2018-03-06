@@ -1,4 +1,13 @@
-# 2018-03-05
+# [Changelog]
+
+## [Unreleased]
+
+## [1.0.0] - 2018-03-05
+### Added
 * This git was created
-* The insert method of a list was understood
-* Using [tutorial](https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm)
+
+# 2018-03-06
+### Added
+* Advantages/disadvantages has been filled for all data structures in this project, 
+* Basic operations has been described
+* Situations where a data structure is benificial has been filled

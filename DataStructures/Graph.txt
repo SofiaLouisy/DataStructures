@@ -1,5 +1,30 @@
+Usage:
+    Good if data links together in an unconsistent
+    matter.
+
 Advantages:
 - Models real-world situations
 
 Disadvantages:
 - Some algorithms are slow and complex
+
+vertices = V = {a,b,c,d,e} Can be sepresented by array
+edges = E = {ab,ac,bc,cd,de} Can be represented by 2D array
+adjacency - if the vertices are connect by one edges
+path - a sequence of edges
+
+Basic operations:
+- Add vertex
+- Add edge
+- display vertex
+
+Search
+    Depth first: Uses stack to remember to get 
+    the next vertex to start a seach when dead 
+    end i reached (sounds like a linked list 
+    might be used to create graph)
+    Complexity depends on complexity 
+    (how many edges each has) (n-n²-n³)
+
+    Breadth first: Uses queue to know where
+    start next bredth search

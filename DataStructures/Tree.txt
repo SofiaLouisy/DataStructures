@@ -1,3 +1,6 @@
+Usage:
+    Good for easy access of ordered data
+
 Advantages:
 - Quick search
 - Quick insertion
@@ -5,3 +8,21 @@ Advantages:
 
 Disadvantages:
 - Complex to implement
+
+Binary tree: max 2 children. Left child must have
+value less than parent, right child more than parent
+we end up with ordered generation
+
+Basic operations
+- Insert
+- Search (an element)
+- Preorder/inorder/portorder Traversal (pass through nodes)
+
+insertion
+    Locate proper location (search from root).
+    If data is less than key value, search for empty
+    location in left subtree (then right)
+    (no generations) If tree is linear (n)
+
+search
+    same strategy

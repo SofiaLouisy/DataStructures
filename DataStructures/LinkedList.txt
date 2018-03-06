@@ -1,3 +1,8 @@
+Usage:
+    Good if iterations is to be done 
+    with all elements, if #elements is dynamic
+    (but not easy to fetch)
+
 A linked list is a sequence of data structures,
 which are connected together via links.
 
@@ -22,3 +27,20 @@ Advantages:
 Disadvantages:
 - Slow search
 
+Basic operations:
+- insertion (beginning)
+- deletion (beginning)
+- display (shows complete list)
+- search (using given key)
+- delete (using given key)
+
+Insert:
+    New node points to its (suppose-to-be) right node,
+    then the left-node points to the new one instead.
+    (1)
+
+Remove:
+    Point left to right (LeftNode.next -> TargetNode.next), point current to 0
+    Point target to 0,
+    deallocate the memory of it
+    (1)

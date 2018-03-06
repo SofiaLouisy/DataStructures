@@ -1,3 +1,13 @@
+Usage:
+    Good if iterations is to be done 
+    with all elements, if #elements is fixed
+
+An array is a container which can hold 
+a fix number of items of the same type.
+
+Most data structures uses arrays 
+to implement their algorithms
+
 Advantages:
 - Quick insertion
 - Very fast access if index known
@@ -6,3 +16,25 @@ Disadvantages:
 - Slow search (n)
 - Slow deletion (?)
 - Fixed size
+
+Basic operations:
+- Traverse (print all elements)
+- Insertion (at given index)
+- deletion (at given index)
+- Search (index or value)
+- Update (at given index)
+
+Insert:
+    Adding an element to the end (1). Inserting (n)
+
+Remove:
+    Removing an existing element,
+    and re-organizing the element (n)
+
+Search:
+    Comparing each element with value (n)
+
+Update:
+    With known index (1)
+
+

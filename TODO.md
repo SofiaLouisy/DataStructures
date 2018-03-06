@@ -1,8 +1,8 @@
 # To do
 
-## To do
+## Done
 Conseptually understand (including complexity):
-- List
+- Linked list
     - insert
     - search
     - remove
@@ -41,9 +41,3 @@ Conseptually understand (including complexity):
     - next
 
 - Note advantages/disadvantages
-
--Work with
-
-
-
-## Done
